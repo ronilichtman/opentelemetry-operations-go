@@ -1,4 +1,4 @@
-module github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/metric
+module github.com/ronilichtman/opentelemetry-operations-go/exporter/metric
 
 go 1.14
 
